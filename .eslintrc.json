@@ -1,0 +1,7 @@
+{
+  "extends": ["airbnb", "prettier"],
+  "rules": {
+    "jsx-a11y/anchor-is-valid": "off",
+    "react/jsx-filename-extension": "off"
+  }
+}
